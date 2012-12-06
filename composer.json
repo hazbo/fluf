@@ -10,5 +10,6 @@
     },
     "autoload": {
         "psr-0": { "Outglow\\Component\\Fluf": "" }
-    }
+    },
+    "minimum-stability": "dev"
 }
