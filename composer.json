@@ -6,7 +6,7 @@
     "require": {
         "php": ">=5.3.0",
         "symfony/yaml": "2.1.x-dev",
-        "outglow/community": "dev-master"
+        "outglow/community": "*"
     },
     "autoload": {
         "psr-0": { "Outglow\\Component\\Fluf": "" }
