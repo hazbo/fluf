@@ -5,8 +5,8 @@
     "keywords": ["harry","outglow","dependency", "injection", "container", "wrapper", "fluf"],
     "require": {
         "php": ">=5.3.0",
-        "symfony/yaml": "2.1.x-dev",
-        "outglow/community": "*"
+        "outglow/community": "dev-master",
+        "symfony/yaml": "2.1.x-dev"
     },
     "autoload": {
         "psr-0": { "Outglow\\Component\\Fluf": "" }
